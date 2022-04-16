@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [**https://hakoudev.web.app/**](https://hakoudev.web.app/)
 
-- 📫 How to reach me **hakouguelfen@protonmail.com**
+- 📫 How to reach me **hakoudev@gmail.com**
 
 
 ## Languages and Tools
