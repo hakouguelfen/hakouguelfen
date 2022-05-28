@@ -3,7 +3,7 @@
 
 ## About me
 
-- 🔭 I’m currently working on [**dotfiles**](https://github.com/hakouklvn/dotfiles)
+- 🔭 I’m currently working on [**mousika**](https://github.com/hakouklvn/mousika)
 
 - 🌱 I’m currently learning [**doom emacs**](https://github.com/hlissner/doom-emacs) 
 
