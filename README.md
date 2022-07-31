@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Guelfen Abdelheq</h1>
-<h3 align="center">A passionate Fullstack developer from Algeria</h3>
 
 ## About me
 
